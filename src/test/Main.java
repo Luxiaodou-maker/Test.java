@@ -7,7 +7,7 @@ public class Main {
         for (int i = 0; i < 5; i++) {
             System.out.println("请输入第"+i+"张彩票的号码号码");
             Scanner reader=new Scanner(System.in);
-        }
+        }//收到开发和作者项目
 
     }
 }
